@@ -117,17 +117,15 @@ How GANTT Charts Assist in This Process:
   
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 CORE ISSUES:
-         i. Inefficiency -> Automating repetitive tasks to improve productivity
-        ii. Data Management Challenges->  Providing a structured way to store, access, and analyze data.
-      iii. Communication Gaps->  Enhancing collaboration and connectivity between users.
-      iv. Security & Privacy Concerns-> Protecting sensitive data from breaches and unauthorized access.
-      v. Cost Management->  Reducing operational costs by optimizing processes.
-
+        i.Lack of proper education on how to carry out agricultural practice considering the climatic changes
+        ii. Food insecurity this is by increasing efficiency and yield.
+        iii. Market access.
+        iv. Reccomends cost effective farming solution.
 WHY THEY MATTER TO THE TARGET AUDIENCE:
-           i. Enterprises-> Need software that boosts efficiency, automates workflows, and ensures compliance.
-           ii. Developers -> Require tools that simplify deployment, debugging, and system monitoring.
-           iii.  End-Users->  Want seamless, secure, and user-friendly experiences.
-           iv. Entrepreneurs-> Look for cost-effective, scalable solutions to launch and grow quickly.
+           i. Increased productivity
+           ii. Better Market access.
+           iii. Access to expert knowledge
+           iv.Climate change adaption
            
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
    i.Increased efficiency -> with a clear roadmap, developers can write cleaner, more efficient code without unnecessary trial and error.
@@ -137,22 +135,19 @@ WHY THEY MATTER TO THE TARGET AUDIENCE:
   v. Optimize resource allocation -> Knowing the problem scope helps in assigning the right amount of time, budget, and workforce to the project.
   
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-  i Start with the problem -> Clearly state the challenges your software addresses.
-  ii Highlight the solution -> Describe how your software solves the problem in a straightforward way.
-  iii. Emphasize the Benefits -> Focus on the user experience, efficiency and real-world improvements.
-  iv. Use simple, Relatable language -> avoid technical jargon.
+ Smart Farm is a software application aimed at bridging the gap between farmers and agricultural experts.
+ It aims at providing a secure platform that facilitates direct communication between farmers and agricultural experts.
+ The software aplication also tends to offer market insights to farmers.
+ 
 ## 11. What are the main features or functionalities that make your software stand out?
  i. User-friendly interface
- ii. Automation - Reduces manual work through smart automation.
+ ii. Automation - Reduces manual work through smart automation accomplished through the use of Artificial Intelligence
  iii. Customization - User can personalize settings to fit their needs
  iv Reliability - Reliable performance with minimal downtime
  v. Performance - Handles high user loads without lag.
 ## 12. What data is available regarding the market size and growth potential for your software?
- i. Industry and Niche -> the industry the software solves.
-ii. Market Reports
-iii. Competitors Market share
-iv . Indentify Target Audience
-v. Geographical Trends
+ i.70% of farmers do not have access to Agricultural officers.
+ ii. 65% of farmers use harmful chemicals for farming without knowledge
 ## 13. How can understanding market trends inform your software’s positioning and development?
 i. Identifying Customer Needs -> Helps you build features that solve real-world problems
 ii. Enhancing competitive advantage -> By analyzing competitors and industry shifts, you can differentiate your product with unique features or better UX.
